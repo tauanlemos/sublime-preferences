@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Git blame",
+		"Laravel 5 Snippets",
+		"Laravel Blade Highlighter",
+		"Markdown Preview",
+		"MarkdownLivePreview",
+		"Material Theme",
+		"Origami",
+		"Package Control",
+		"PHP Companion",
+		"PHP Completions Kit",
+		"PHP Constructors",
+		"PHP Syntax Checker",
+		"Phpcs",
+		"PhpNamespace",
+		"PHPSnippets",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Vue Syntax Highlight",
+		"Vuejs Complete Package",
+		"Vuejs Snippets"
+	]
+}
